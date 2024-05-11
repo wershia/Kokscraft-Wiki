@@ -6,7 +6,7 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 - Aby zaakceptować oświadczyny, użyj komendy **/slub accept [nick]**.
 - Aby pisać na chacie prywatnym z drugą połówką, użyj komendy **/slub chat [wiadomość]**.
 - Aby otworzyć panel ślubu, będąc w związku, użyj komendy **/slub**.
-- 
+ 
 ![GUI ślubu](/assets/marriages/gui.png)
 
 ## GUI 
