@@ -1,6 +1,12 @@
 # Śluby
 Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepszać maksymalnie do 10 poziomu. Im wyższy level, tym większy boost XP i rubinów otrzymujecie wraz ze swoją drugą połówką.
 
+## Komendy
+- Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.
+- Aby zaakceptować oświadczyny, użyj komendy **/slub accept [nick]**.
+- Aby pisać na chacie prywatnym z drugą połówką, użyj komendy **/slub chat [wiadomość]**.
+- Aby otworzyć panel ślubu, będąc w związku, użyj komendy **/slub**.
+
 ![GUI ślubu](/assets/marriages/gui.png)
 
 ## Panel
@@ -18,12 +24,6 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 - Czas od ostatniego logowania się twojej miłości sprawdzisz najeżdżając na jej główkę w GUI.
 
 ![Czas ostatniego logowania](/assets/marriages/last_seen.png)
-
-## Komendy
-- Aby wziąć ślub, użyj komendy **/slub zapros [nick]**.
-- Aby zaakceptować oświadczyny, użyj komendy **/slub accept [nick]**.
-- Aby pisać na chacie prywatnym z drugą połówką, użyj komendy **/slub chat [wiadomość]**.
-- Aby otworzyć panel ślubu, będąc w związku, użyj komendy **/slub**.
 
 ## Informacje o poziomach. 
 | **Poziom** |      **Nazwa**      | **Cena (kokscoiny)** | **Cena (rubiny)** | **Booster XP i rubinów** |
