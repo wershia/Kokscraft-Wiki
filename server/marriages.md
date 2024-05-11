@@ -9,6 +9,7 @@ Na naszym serwerze można zawrzeć ślub z innym graczem. Związek można ulepsz
 
 ![GUI ślubu](/assets/marriages/gui.png)
 
+![GUI](assets/marriages/gui.png)
 ## GUI 
 - Związek można ulepszyć za **kokscoiny** lub **rubiny**:
 - Aby ulepszyć związek za **kokscoiny** kliknij **lewym** przyciskiem myszy na główkę w GUI.
